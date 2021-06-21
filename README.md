@@ -1,0 +1,2 @@
+# MyParentRepo
+Parent repository
